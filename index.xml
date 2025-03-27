@@ -1,9 +1,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
+        <title>AIGCBAR - GPT&amp;Claude 镜像站，拼车，API服务</title>
         <link>http://localhost:1313/</link>
-        <description>This is my cool site</description>
+        <description>欢迎探索 AIGCBAR 的小宇宙！这里为你提供 GPT、Claude 等主流大模型的优质服务，包括claude镜像，gpt镜像，gpt拼车，claude拼车，API 等一站式解决方案，满足你的所有需求！</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 27 Mar 2025 16:57:08 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>First Post</title>
+    <link>http://localhost:1313/posts/first-post/</link>
+    <pubDate>Thu, 27 Mar 2025 16:57:08 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/first-post/</guid>
+    <description><![CDATA[<p>12312312
+meor
+1231231231</p>]]></description>
+</item>
+</channel>
 </rss>
